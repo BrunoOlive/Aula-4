@@ -1,2 +1,2 @@
-# Aula-4
-Econometria Avançada
+# 4-EconometriaAvancada-Aula4
+Raizes Unitárias e Teste DF
